@@ -1,0 +1,16 @@
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\obj\Debug\net5.0\floatchart num 3.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\obj\Debug\net5.0\floatchart num 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\obj\Debug\net5.0\floatchart num 3.AssemblyInfoInputs.cache
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\obj\Debug\net5.0\floatchart num 3.AssemblyInfo.cs
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\obj\Debug\net5.0\floatchart num 3.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\bin\Debug\net5.0\floatchart num 3.exe
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\bin\Debug\net5.0\floatchart num 3.deps.json
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\bin\Debug\net5.0\floatchart num 3.runtimeconfig.json
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\bin\Debug\net5.0\floatchart num 3.runtimeconfig.dev.json
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\bin\Debug\net5.0\floatchart num 3.dll
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\bin\Debug\net5.0\ref\floatchart num 3.dll
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\bin\Debug\net5.0\floatchart num 3.pdb
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\obj\Debug\net5.0\floatchart num 3.dll
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\obj\Debug\net5.0\ref\floatchart num 3.dll
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\obj\Debug\net5.0\floatchart num 3.pdb
+C:\Users\msi\source\repos\floatchart num 3\floatchart num 3\obj\Debug\net5.0\floatchart num 3.genruntimeconfig.cache
